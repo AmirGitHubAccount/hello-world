@@ -4,7 +4,7 @@ A tiny interactive single-page site. Click the button — watch "Hello world" ap
 
 ## Live demo
 
-> Fill this in after deploying: `https://<your-username>.github.io/<repo-name>/`
+https://AmirGitHubAccount.github.io/hello-world/
 
 ---
 
